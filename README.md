@@ -9,3 +9,8 @@ print('Hello World!')
 ```javascript
 console.log('Hello World!')
 ```
+
+## C++
+```c++
+std::cout << "Hello World!";
+```
