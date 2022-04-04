@@ -1,5 +1,4 @@
 # hello-world
-github tutorial
 
 ## python hello world
 ```
