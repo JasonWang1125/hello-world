@@ -1,4 +1,4 @@
 # hello-world
 hello this is jason learning about github
 
-feature1 change readme.md file
+feature1 delete some readme.md content
